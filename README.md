@@ -1,6 +1,6 @@
 Web Scraping Project Summary
 Project Title: Amazon Solar Charge Controller Data Crawler
-Client: [Insert Client Name]
+Client: [Jimmy A Javier]
 Developer: Leoncio U. Coronado Jr.
 Date: July 4, 2025
 ________________________________________
@@ -14,7 +14,7 @@ o	Original List Price
 •	Enable automatic navigation through pagination
 •	Bypass Amazon's bot detection for uninterrupted scraping
 ________________________________________
- Technologies Used
+Technologies Used
 Component	Tool
 Scraping Engine	Scrapy 2.13.2
 Browser Automation	Scrapy-Selenium (with ChromeDriver)
