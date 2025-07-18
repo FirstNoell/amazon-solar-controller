@@ -52,6 +52,6 @@ ________________________________________ Future Upgrades
 •	Email or Slack alerts
 •	Deployment on cloud scheduler (e.g., cron job)
 ________________________________________
- Contact Info
+
 Developer: Leoncio U. Coronado Jr.
-Email: coronadonoell@gmail.com
+
